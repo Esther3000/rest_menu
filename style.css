@@ -8,8 +8,8 @@ h2 {
 	text-align: center;
 }
 .logo {
-	display: flex;
+	float: left;
 }
 h1{
-	flex: 1;
+	
 }
