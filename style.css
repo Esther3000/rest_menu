@@ -7,6 +7,9 @@
 h2 {
 	text-align: center;
 }
-#logo {
-	size: 15px;
+.logo {
+	display: flex;
+}
+h1{
+	flex: 1;
 }
