@@ -21,3 +21,7 @@ h1{
 .main {
 	font-family: 'PT Serif', serif;
 }
+.menu-items {
+	border-radius: 4px;
+	width: 400px;
+}
