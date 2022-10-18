@@ -8,12 +8,16 @@
 h2 {
 	text-align: center;
 }
+h3 {
+	text-align: center;
+
+}
 /*.logo {
 	float: left;
 }*/
 h1{
 	
 }
-.main{
+.main {
 	font-family: 'PT Serif', serif;
 }
